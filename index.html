@@ -17,30 +17,38 @@
 		<script src="Question.js"></script>
 		<script src="AnswerType.js"></script>
 
-		<div class="window" id="start">
-			<!--<img src="images/DnD-logo.jpg">-->
-			<input type="button" value="Loading..." id="StartButton" disabled="true">
+		<div class="window start" id="start">
+			<h1 id="Explination" class="text">WELCOME, TO THE DND CHARACTER QUIZ!</h1>
+			<img id="start_image" src="images/DnD-logo.jpg">
+			<input type="button" class="button" value="Loading..." id="StartButton" disabled="true">
+			<input type="button" class="button" value="Explination" id="Explination_Button">
 		</div>
-		<div class="window" id="test" hidden>
+		<div class="window start" id="explination" hidden>
+			<h2 class="text" id="explination_text">This quiz will determine your Dungeon's and Dragons 5th Edition Class, Race, and Morality.  The test is not meant to give you the same answer each time, and will be different every time you take it. Pick the answers that you feel are best suited to you!<br>This quiz will only use content from the standard edition, a link to more information about the chosen race and class will be included at the end of the quiz!</h2>
+		</div>
+		<div class="window test" id="test" hidden>
 			
 			<form id="form">
-				<h1 id="question"></h1>
-				<input type="radio" class="choice" id="1" name="choice" value="1">
-				<label for="1" id="label1"></label><br>
-				<input type="radio" class="choice" id="2" name="choice" value="2">
-				<label for="2" id="label2"></label><br>
-				<input type="radio" class="choice" id="3" name="choice" value="3">
-				<label for="3" id="label3"></label><br>
-				<input type="radio" class="choice" id="4" name="choice" value="">
-				<label for="4" id="label4"></label><br>
+				<div id="question_container">
+					<h1 id="question"></h1>
+					<input type="radio" class="choice" id="1" name="choice" value="1">
+					<label for="1" id="label1"></label><br>
+					<input type="radio" class="choice" id="2" name="choice" value="2">
+					<label for="2" id="label2"></label><br>
+					<input type="radio" class="choice" id="3" name="choice" value="3">
+					<label for="3" id="label3"></label><br>
+					<input type="radio" class="choice" id="4" name="choice" value="">
+					<label for="4" id="label4"></label><br>
+				</div>
 				<input type="submit" value="submit answer" id="Submit">
 			</form>
-			<progress id="bar" value="0" max="12">
+			<progress id="bar" value="0" max="12"></progress>
+				<p class="text" id="Text_Progress">0/12</p>
 		</div>
-		<div class="window" id="results" hidden>
-			<p class="Reveal" id="Race"></p>
+		<div class="window results" id="results" hidden>
+			<p class="Reveal" id="Race">Your Race is <a id="race_link" target="_blank" rel="noopener noreferrer"></a></p>
 			<br>
-			<p class="Reveal" id="Class"></p>
+			<p class="Reveal" id="Class">Your Class is <a id="class_link" target="_blank" rel="noopener noreferrer"></a></p>
 			<br>
 			<p class="Reveal" id="Alignment"></p>
 		</div>
