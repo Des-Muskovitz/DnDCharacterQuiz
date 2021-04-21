@@ -65,9 +65,52 @@ CSS code written for the website
 body{
 	height: 100vh;
 	background: linear-gradient(170deg, #303030, #181818);
-	color: white;
+	color: black;
+	font-size: 1.15em;
 }
 
-img{
+.window{
+	margin: auto;
+	width: 35%;
+	border: 5px groove #808080;
+	background-color: #A9A9A9;
+	padding: 25px;
+	position: relative;
+	top:5vh;
+	text-align: center;
+}
 
+.test{
+	height: 165px;
+	width:422px;
+}
+
+#start_image{
+	height:65%;
+	width: 65%;
+}
+
+.button{
+	position: relative;
+	top: 0.05vh;
+	width: 65%;
+}
+#StartButton{
+
+	width: 65%;
+}
+#Explination_Button{
+
+}
+
+.text{
+	position: center;
+}
+
+#bar{
+	width: 85%;
+}
+
+#question_container{
+	text-align:left;
 }
