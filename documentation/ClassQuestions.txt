@@ -1,0 +1,23 @@
+What was your dream as a 5 year old?
+Astronaut: Warlock2, Barbarian1
+President: Paladin2, Sorcerer1
+Doctor: Wizard2, Druid1
+Firefighter: Fighter2, Monk1
+
+How do you typically get dinner?
+Wait you guys can cook dinner???: Rouge2, Warlock1
+Who has time to cook?: Sorcerer2, Ranger1
+Postmates exist dude: Wizard2, Fighter1
+I cook every night: Bard2, Cleric1
+
+What do you do at the gym?
+Weights: Fighter2, Monk1
+Stare: Druid2, Bard1
+Treadmill: Ranger2, Rogue1
+Spend 10 minutes picking music: Paladin2, Warlock1
+
+What is your favorite Wii Sports Game?
+Bowling: Wizard2, Sorcerer1
+Tennis: Paladin2, Warlock1
+Golf: Cleric2, Bard1
+Baseball: Monk2, Barbarian1

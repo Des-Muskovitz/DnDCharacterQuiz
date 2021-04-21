@@ -1,0 +1,28 @@
+Create Personality test, See pokemon mystery dungeon
+
+Testing for Race, Class, and Alignment
+(PHB Races, only use SRD)
+
+Give each catagory 4 questions, randomly spread through the webpage.
+
+Each question will fade in and fade out.
+
+Start the webpage on a screen with a text entry field for a name, and a button that says start quiz
+
+Have a total of 12 questions for each catagory, (create question JS class?)
+
+Each question has 4 choices, each giving 1-2 points for 1-2 options, most points at end wins
+if two have equal points at the end of 12 questions, add one more question from each catagory or coin flip
+
+Set ID of question to be equal to catagory, and set return value of form to be 1-4 depending on which radio button is pressed
+question class will store each answer and assosiated points as an array of strings (ex [class] WI1 = Wizard 1 point, WA2 = Warlock 2 point)
+
+Have 3 images for each combo of race and class, change the background color depending on alignment
+
+give brief discription of each catagory, talk about race, talk about class, talk about alignment
+(add links to DND beyond about race and class??????????)
+
+Add button at the bottom to retake the quiz, everything fades out, and resets
+
+Single HTML page
+Two JS pages, JQuery???

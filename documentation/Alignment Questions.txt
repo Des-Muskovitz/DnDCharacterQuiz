@@ -1,0 +1,29 @@
+An evil cult is holding your friends and family hostage, you can only save one person, who do you save?
+Parents: L2, M2
+Best friends: L0, M1
+Kill the cult: L-1, M0
+Join the cult: L-2, M-2
+
+What are your go to pizza toppings?
+Pineapple: L1, M0
+Pepperoni: L0, M0
+Grilled Onions: L-1, M1
+Broccoli: L-2, M-2
+
+What do you do before leaving the house?
+Check the weather: L2, M2
+Grab a light jacket, just in case: L-1, M1
+Grab a small umbrella for your bag: L1, M-1
+Just leave: L-2, M0
+
+What is your favorite shape?
+Circle: L0, M0
+Triangle: L-1, M2
+Square: L0, M-1
+Tetradecagon: L2, M-2
+
+Which saying would you use most often?
+If i can't be accurate, i'm sure as hell gonna be extra: L0, M1
+You can't bend the rules till you learn the rules: L-1, M2
+I put the fun in disfunctional: L-2, M1
+We march to the beat of our own avocado: L0, M0

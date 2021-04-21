@@ -1,0 +1,23 @@
+Your best friend just stole some money from your coin purse, what do you do?
+Take the money back: Dwarf2, Dragonborn1
+Turn your friend into the cops: Elf2, Human1
+Give them more money: Halfling2, Gnome1
+Ask if friend is ok: Tiefling2, Halfelf1
+
+Your material possessions are burning up, and you can save one thing, what do you save?
+Money: Human2, Halfelf1
+A stuffed animal: Gnome2, Halfling1
+Family hierloom: Dwarf2, Halforc1
+A nice coffee cup: Elf2, Tiefling1
+
+Where would you feel most comfortable
+A deep cavern: Dwarf2, Gnome1
+Alone: Tiefling2, Elf1
+Surrounded by Family: Halforc2, Halfling1
+On a hunt: Human2, Halfelf1
+
+What's your relationship with your parents like?
+Parents?: Dragonborn2, Halfelf1
+They don't speak to me anymore: Elf2, Halfling1
+I see them occasionally: Human2, Tiefling1
+I have a very good relationship with my parents: Dwarf2, Gnome1

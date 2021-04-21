@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+
+	<title>The D&D Character Creator</title>
+
+	<link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+	<main>
+		<script src="JQuery.js"></script>
+		<script src="script.js"></script>
+		<script src="Question.js"></script>
+		<script src="AnswerType.js"></script>
+
+		<div class="window" id="start">
+			<img src="images/DnD-logo.jpg">
+			<input type="button" value="Loading..." id="StartButton" disabled="true">
+		</div>
+		<div class="window" id="test" hidden>
+			
+			<form id="form">
+				<h1 id="question"></h1>
+				<input type="radio" class="choice" id="1" name="choice" value="1">
+				<label for="1" id="label1"></label><br>
+				<input type="radio" class="choice" id="2" name="choice" value="2">
+				<label for="2" id="label2"></label><br>
+				<input type="radio" class="choice" id="3" name="choice" value="3">
+				<label for="3" id="label3"></label><br>
+				<input type="radio" class="choice" id="4" name="choice" value="">
+				<label for="4" id="label4"></label><br>
+				<input type="submit" value="submit answer" id="Submit">
+			</form>
+			<progress id="bar" value="0" max="12">
+		</div>
+		<div class="window" id="results" hidden>
+			<p class="Reveal" id="Race"></p>
+			<br>
+			<p class="Reveal" id="Class"></p>
+			<br>
+			<p class="Reveal" id="Alignment"></p>
+		</div>
+	</main>
+</body>
+</html>
