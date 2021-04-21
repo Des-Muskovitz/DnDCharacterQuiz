@@ -19,12 +19,26 @@ var selectedAnswerTypes = [];
 
 function randInt(min, max){return Math.floor(Math.random() * (max - min) + min);}
 
+function debugResults(){
+	var results = ["Half-orc", "Fighter", "True Neutral"];
+	$('.test').prop({hidden:true});
+	$('.start').prop({hidden:true});
+	$('.results').prop({hidden:false});
+	$('#race_link').prop("href","https://www.dndbeyond.com/races/"+results[0]);
+	$('#race_link').text(results[0]);
+	$('#class_link').prop("href", "https://www.dndbeyond.com/classes/"+results[1]);
+	$('#class_link').text(results[1]);
+	$('#Alignment').text("Your Alignment is " + results[2]);
+}
+
 function displayResults(){
 	var results = gainResults();
-	$('#test').prop({hidden:true});
-	$('#results').prop({hidden:false});
-	$('#Race').text("Your Race is " + results[0]);
-	$('#Class').text("Your Class is " + results[1]);
+	$('.test').prop({hidden:true});
+	$('.results').prop({hidden:false});
+	$('#race_link').prop("href","https://www.dndbeyond.com/races/"+results[0]);
+	$('#race_link').text(results[0]);
+	$('#class_link').prop("href", "https://www.dndbeyond.com/classes/"+results[1]);
+	$('#class_link').text(results[1]);
 	$('#Alignment').text("Your Alignment is " + results[2]);
 }
 
@@ -135,6 +149,7 @@ function setQuestion(){
 		$('.choice').prop("checked", false);
 		$('#Submit').prop("disabled", true);
 		$('#bar').val(currentQuestion);
+		$('#Text_Progress').text(currentQuestion+"/12");
 	}
 }
 
@@ -349,15 +364,26 @@ $(document).ready(function(){
 		}
 	});
 	$('#StartButton').prop({disabled:false});
-	$('#StartButton').prop({value:"Loaded!"});
+	$('#StartButton').prop({value:"Start Quiz!"});
 
 
 $('#StartButton').click(function(){
 	if(questionsSelected){
 		currentQuestion = 0;
-		$('#start').prop({hidden:true});
+		$('.start').prop({hidden:true});
 		$('#test').prop({hidden:false});
 		setQuestion();
+	}
+});
+
+$('#Explination_Button').click(function(){
+	if($('#explination').prop("hidden")==true){
+		$('#explination').prop("hidden", false);
+		$('#Explination_Button').prop("value", "Hide Explination");
+	}
+	else if($('#explination').prop("hidden")==false){
+		$('#explination').prop("hidden", true);
+		$('#Explination_Button').prop("value", "Explination");
 	}
 });
 
