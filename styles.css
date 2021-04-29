@@ -52,14 +52,20 @@ table {
 CSS code written for the website
 */
 
-@keyframes supriseText{
-	from {background-color: rgba(255,255,255,1);}
-	to {background-color: rgba(255,255,255,0);}
+@keyframes FadeOut{
+	from{opacity: 100%;}
+	to{opacity: 0%;}
+	}
+@keyframes FadeIn{
+	from{opacity: 0%;}
+	to{opacity: 100%;}
 }
 
-.animatiedText{
-	background-color: rgba(255,255,255,1);
-	animation: supriseText 1.5s forwards;
+.fadeIn{
+	animation: FadeIn linear 3s;
+}
+.fadeOut{
+	animation: FadeOut linear 3s;
 }
 
 body{
@@ -104,7 +110,7 @@ body{
 }
 
 .text{
-	position: center;
+
 }
 
 #bar{
