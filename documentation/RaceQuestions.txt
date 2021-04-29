@@ -1,3 +1,15 @@
+Total Points
+Dragonborn 16
+Dwarf 14
+Elf 17
+Gnome 16
+Halfelf 15
+Halfling 17
+Halforc 16
+Human 16
+Tiefling 17
+
+
 Your best friend just stole some money from your coin purse, what do you do?
 Take the money back: Dwarf2, Dragonborn1
 Turn your friend into the cops: Elf2, Human1
@@ -21,3 +33,51 @@ Parents?: Dragonborn2, Halfelf1
 They don't speak to me anymore: Elf2, Halfling1
 I see them occasionally: Human2, Tiefling1
 I have a very good relationship with my parents: Dwarf2, Gnome1
+
+How do you spend your free time?
+Playing Video Games: Tiefling2, Human1
+Reading: Halfling2, Elf1
+Daydreaming: Gnome2, Halfelf1
+Exercising: Dragonborn2, Halforc1
+
+What sitcom archetype do you fit into?
+The Straight-man: Dragonborn2, Halforc1
+The Precocious: Halfling2, Gnome1
+The Sage: Halfelf2, Dwarf1
+The Charmer: Tiefling2, Human1
+
+You and your closest friends are all hanging out, what y'all doing?
+Card/board games: Gnome2, Halfling1
+Drinking games: Halforc2, Dwarf1
+Movie night: Halfelf2, Human1
+IDK i suck at planning these things: Dragonborn2, Tiefling1
+
+Favorite McDonalds Chicken Nugget Shape (Yes they have defined shape, google it)
+Bell: Gnome2, Dwarf1
+Ball: Elf2, Halfelf1
+Boot: Human2, Halfling1
+Bone: Halforc2, Dragonborn1
+
+What is your go to pasta shape
+Penne: Human2, Halfling1
+Orecchiette: Elf2, Dwarf1
+Gnocchi: Dragonborn2, Tiefling1
+Ravioli: Halforc2, Halfelf1
+
+What do you say when stepping on a lego piece
+Scream Fuck: Halforc2, Tiefling1
+Scream a curse adjacent word: Gnome2, Elf1
+Grimace, but remain quiet: Dragonborn2, Dwarf1
+"Not again": Halfelf2, Halfling1
+
+How do you do your hair in the morning
+Comb/Hair brush: Halfling2, Gnome1
+Conditioner: Elf2, Halfelf1
+I run my fingers through it?: Halforc2, Dwarf1
+Pommade: Tiefling2, Dragonborn1
+
+Favorite Minecraft Monster
+Creeper: Tiefling2, Halforc1
+Skeleton: Halfling2, Gnome1
+Zombie: Human2, Halfelf1
+I've never played Minecraft: Elf2, Dragonborn1
