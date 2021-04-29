@@ -2,7 +2,7 @@ An evil cult is holding your friends and family hostage, you can only save one p
 Parents: L2, M2
 Best friends: L0, M1
 Kill the cult: L-1, M0
-Join the cult: L-2, M-2
+Hmmmm, what kinda cult?: L-2, M-2
 
 What are your go to pizza toppings?
 Pineapple: L1, M0
@@ -27,3 +27,45 @@ If i can't be accurate, i'm sure as hell gonna be extra: L0, M1
 You can't bend the rules till you learn the rules: L-1, M2
 I put the fun in disfunctional: L-2, M1
 We march to the beat of our own avocado: L0, M0
+
+Pick a Political Commentator
+Ben Shapiro: L2, M-2
+Trevor Noah: L2, M1
+Joe Rogan: L-2, M-2
+John Oliver: L-2, M2
+
+How do you clean your dishes
+My roommates does em: L-2, M-2
+Scrub brush with internal soap dispencer: L2, M0
+No soap, only aggressivly hot water: L-2, M0
+Dishwasher: L2, M1
+
+How would you die in the middle ages?
+Gout, I would eat myself to death: L0, M-1
+The plauge: L2, M1
+I will live forever, get one of those cool beak masks: L-1, M1
+Burned/Drowned for being a witch: L-2, M2
+
+Pick a potato dish
+Raw Potato: L-2, M-2
+Mashed Potatoes: L-2, M0
+Baked Potato: L2, M1
+Smilely Fries: L-1, M2
+
+What kind of sauce do you get on pizza?
+Marinara Sauce: L2, M0
+Alfredo Sauce: L-1, M1
+Pesto: L1, M2
+Nothing: L0, M-2
+
+How would you write greeting to your best friend?
+Greatings Coward: L-1, M0
+Sup: L0, M1
+Hey Bestie: L-2, M-1 
+Hello: L2, M0
+
+Which Super Smash Bros Character do you like the most?
+Kirby: L-2, M2
+Mario: L1, M0
+Wii Fit Trainer: L1, M2
+I don't play video games: L0, M0
