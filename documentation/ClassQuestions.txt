@@ -1,3 +1,17 @@
+Total Class Points
+Barbarian 11
+Bard 11
+Cleric 10
+Druid 10
+Fighter 9
+Monk 10
+Paladin 9
+Ranger 10
+Rogue 8
+Sorcerer 10
+Warlock 10
+Wizard 8
+
 What was your dream as a 5 year old?
 Astronaut: Warlock2, Barbarian1
 President: Paladin2, Sorcerer1
@@ -5,8 +19,8 @@ Doctor: Wizard2, Druid1
 Firefighter: Fighter2, Monk1
 
 How do you typically get dinner?
-Wait you guys can cook dinner???: Rouge2, Warlock1
-Who has time to cook?: Sorcerer2, Ranger1
+Who has time to eat?????: Rouge2, Warlock1
+Meh, i get my roommate to do it: Sorcerer2, Ranger1
 Postmates exist dude: Wizard2, Fighter1
 I cook every night: Bard2, Cleric1
 
@@ -21,3 +35,51 @@ Bowling: Wizard2, Sorcerer1
 Tennis: Paladin2, Warlock1
 Golf: Cleric2, Bard1
 Baseball: Monk2, Barbarian1
+
+How do you deal with problems?
+I just stress: Cleric2, Druid1
+I procrastinate for hours: Barbarian2, Fighter1
+I solve them constructively and quickly: Wizard2, Monk1
+I have no problems, i'm a god: Sorcerer2, Bard1
+
+How do you feel about leadership?
+Hey man, I'm always in charge: Barbarian2, Bard1
+Fuck you i don't do what you tell me: Warlock2, Ranger1
+I'm happy to serve: Cleric2, Paladin1
+The elementary school teacher never made me the line leader: Druid2, Rogue1
+
+It's a first date, what are you wearing?
+Something very formal: Wizard2, Bard1
+Denim, and a button up: Barbarian2, Monk1
+Idk, what ever is clean: Ranger2, Fighter1
+Just Socks: Warlock2, Rogue1
+
+Which fantasy milkshake name sounds most appealing?
+Blood of your enemies: Fighter2, Rogue1
+Living Dragon Fruit: Monk2, Ranger1
+Diamond Shavings: Sorcerer2, Bard1
+Blueberry pancakes: Druid2, Barbarian1
+
+What is your favorite healthy dessert
+Fruit: Monk2, Rogue1
+Chocolate covered crackers: Paladin2, Cleric1 
+Yogurt dipped foods: Ranger2, Druid1
+A single glass of red wine, and a small square of dark chocolate: Sorcerer2, Bard1
+
+What is your favorite Flower?
+Dandelion: Fighter2, Druid1
+Daisy: Cleric2, Ranger1
+Rose: Barbarian2, Rogue1
+All-Purpose: Bard2, Warlock1
+
+At what age did you stop eating glue?
+Mother taught me better than that: Ranger2, Sorcerer1
+Before Pre-school: Rogue2, Druid1
+Excuse you it's called paste: Wizard2, Cleric1
+Wait, Y'all stopped?: Fighter2, Barbarian1
+
+What classic strip mall location do you most identify with?
+Kumon: Wizard2, Warlock1
+Discount Martial Arts Dojo: Monk2, Fighter1
+The name brand coffee shop: Cleric2, Paladin1
+Generic Sushi resturant: Rogue2, Ranger1
